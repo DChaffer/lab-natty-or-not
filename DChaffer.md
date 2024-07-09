@@ -5,6 +5,8 @@ Este projeto apresenta um vídeo criado com um avatar, resumindo os aprendizados
 O conteúdo aborda desde a construção de um sistema bancário em Python até o uso de inteligência artificial, 
 incluindo machine learning, IA generativa, redes adversárias generativas (GANs) e visão computacional.
 
+https://studio.d-id.com/share?id=812f4c5f2b6abec258975e1725f5313e&utm_source=copy
+
 ## 🤖 Tecnologias Utilizadas
 - **Python**: Para a programação do sistema bancário simulado.
 - **PostgreSQL**: Para banco de dados relacional.
